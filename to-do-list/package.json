@@ -11,7 +11,7 @@
   "dependencies": {
     "bootstrap": "^5.3.5",
     "daisyui": "^5.0.32",
-    "next": "15.3.1",
+    "next": "15.3.8",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "shadcn": "^2.5.0"
